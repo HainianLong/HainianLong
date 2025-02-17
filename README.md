@@ -1,5 +1,4 @@
 <h1 align="center">⭐Hello, I am Hainian "Audrey" Long⭐</h1>
-<h2 align="center">MS bioinformatics student @ SJSU</h3>
 <h4 align="center">Interested in the application of AI and data science to biomedical field</h3>
 <p align="center"><img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HainianLong&label=Profile%20views&color=0e75b6&style=flat" alt="HainianLong_profileviews" /> </p>
