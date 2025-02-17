@@ -1,18 +1,17 @@
 <h1 align="center">⭐Hello, I am Hainian "Audrey" Long⭐</h1>
 <h4 align="center">Interested in the application of AI and data science to biomedical field</h3>
-<p align="center"><img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HainianLong&label=Profile%20views&color=0e75b6&style=flat" alt="HainianLong_profileviews" /> </p>
 
-## About me:
+## About me 👋:
 - Strong background in AI-driven biomedical research, including applying machine learning, large language models, and statistical analysis to bioinformatics challenges.
 - Looking for bioinformatics engineer, data analyst, data scientist positions.
 
-## Contact me:
+## Contact me 📮:
 - 📫: **hainian.long@sjsu.edu**
 - [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/audrey-long-9bab80135) 
 
 
-## Skills:
+## Skills 👩‍💻:
 
 #### Programming Languages
 
@@ -50,7 +49,7 @@
 
 [![Docker](https://img.shields.io/badge/docker%20-%23F05033.svg?&style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](#)
 
-## Hobbies:
+## Hobbies 🌍:
 - Tennis 🎾
 - Hiking 🥾
 - Snowboarding 🏂
