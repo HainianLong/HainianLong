@@ -8,7 +8,7 @@
 
 ## Contact me 📮:
 - 📫: **hainian.long@sjsu.edu**
-- [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/audrey-long-9bab80135) 
+- [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-long-9bab80135) 
 
 
 ## Skills 👩‍💻:
