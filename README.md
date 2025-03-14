@@ -4,7 +4,8 @@
 
 ## About me 👋:
 - Strong background in AI-driven biomedical research, including applying machine learning, large language models, and statistical analysis to bioinformatics challenges.
-- Looking for bioinformatics engineer, data analyst, data scientist positions.
+- MS Bioinformatics @ SJSU
+- BA Molecular and Cell Biology @ UC Berkeley
 
 ## Contact me 📮:
 - 📫: **hainian.long@sjsu.edu**
